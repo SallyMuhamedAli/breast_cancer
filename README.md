@@ -1,4 +1,4 @@
-Wonderful! It's great to hear that you have developed a project using AI to detect breast cancer. Let's go through the key steps you have taken in this project:
+Let's go through the key steps have taken in this project:
 -[Environment Setup](#EnvironmentSetup)
 -[Data Preprocessing](#DataPreprocessing)
 -[ Model Building](#ModelBuilding)
